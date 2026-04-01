@@ -1,0 +1,9 @@
+{
+  "id": "batch-chapter-renamer",
+  "name": "Batch Chapter Renamer",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Batch rename novel chapters with Ep. numbering or other forms + numbering.",
+  "author": "mikhaElise",
+  "isDesktopOnly": true
+}
